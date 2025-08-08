@@ -33,8 +33,12 @@ Realizar coleta, tratamento e análise exploratória dos dados utilizando Python
 
 ## 📌 Observações
 
-Este projeto é uma atividade prática para aplicação de conceitos fundamentais de ETL (Extract, Transform, Load), os dados apresentados foram disponibilizados pela Alura e são ficticios. 
+Este projeto é uma atividade prática para aplicação de conceitos fundamentais de ETL (Extract, Transform, Load), os dados apresentados foram disponibilizados pela Alura.
 
+
+## 📄 Licença
+
+Este projeto é apenas para fins educativos e não deve ser utilizado comercialmente. Todos os direitos reservados ao autor a à Alura/Oracle como formuladores da base educacional.
 
 
 
